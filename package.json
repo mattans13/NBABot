@@ -1,0 +1,23 @@
+{
+  "name": "nbabot",
+  "version": "1.0.0",
+  "description": "a bot for getting nba data",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattans13/NBABot.git"
+  },
+  "keywords": [
+    "bot",
+    "nba"
+  ],
+  "author": "mattans13",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattans13/NBABot/issues"
+  },
+  "homepage": "https://github.com/mattans13/NBABot#readme"
+}
