@@ -4,7 +4,7 @@ const cheerio = require('cheerio')
 const ARR_LENGTH = 4
 
 let i = 0;
-fetch('https://sports.yahoo.com/nba/scoreboard/?schedState=3&dateRange=2017-03-14')
+fetch('https://sports.yahoo.com/nba/scoreboard/?schedState=3&dateRange=2017-10-18')
     .then( (res) => {
         return res.text()
     })

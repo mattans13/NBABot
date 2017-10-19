@@ -23,5 +23,8 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "node-fetch": "^1.7.1"
+  },
+  "devDependencies": {
+    "serverless-offline": "^3.16.0"
   }
 }
